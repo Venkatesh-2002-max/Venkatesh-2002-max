@@ -1,81 +1,125 @@
+<!-- ======================= HEADER ======================= -->
 <h1 align="center">Hi 👋, I'm Venkatesh P</h1>
-<h3 align="center">MCA Student | Full-Stack Developer | AI Enthusiast</h3>
+<h3 align="center">🚀 MCA Student | Full-Stack Developer | Data Analytics Enthusiast | AI Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/venkatesh-p-502949325/">
     <img src="https://img.shields.io/badge/LinkedIn-Venkatesh%20P-blue?style=for-the-badge&logo=linkedin">
   </a>
+  <a href="mailto:venky.p09102002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+
+---
+
+<!-- ======================= TYPING ANIMATION ======================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Java+%7C+Python+%7C+SQL;Data+Analytics+%7C+AI+Enthusiast;Building+Real-World+Projects" />
 </p>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-🎓 MCA student at New Horizon College of Engineering  
-💻 Strong in Java, Python, SQL, and full-stack web development  
-🤖 Interested in AI-powered real-world applications  
+🎓 MCA student at **New Horizon College of Engineering**  
+💻 Strong in **Java, Python, SQL, Full-Stack Development**  
+📊 Hands-on experience in **Data Analytics & Visualization**  
+🤖 Interested in **AI-powered real-world applications**  
 🚀 Built multiple academic and practical projects  
 
-✨ I enjoy solving practical problems using modern software development practices and AI features.
+✨ Passionate about solving real problems using modern software and data-driven approaches.
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 👨‍💻 Programming
-`Java` `Python` `C` `C++`
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
+</p>
 
 ### 🌐 Web Technologies
-`HTML` `CSS` `JavaScript` `JSP`
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://img.shields.io/badge/JSP-orange?style=for-the-badge">
+</p>
 
 ### ⚙️ Backend & Frameworks
-`Django` `JDBC`
+<p>
+<img src="https://skillicons.dev/icons?i=django" />
+<img src="https://img.shields.io/badge/JDBC-blue?style=for-the-badge">
+</p>
+
+### 📊 Data Analytics
+<p>
+<img src="https://img.shields.io/badge/SQL-Analytics-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Python-Data%20Analysis-yellow?style=for-the-badge">
+<img src="https://img.shields.io/badge/Data%20Visualization-Charts-green?style=for-the-badge">
+</p>
 
 ### 🗄 Databases
-`MySQL` `SQLite` `SQL`
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
 
-### 🧰 Tools & Libraries
-`Git` `GitHub` `PyPDF2` `PyMuPDF` `Tesseract OCR`  
-`VS Code` `Eclipse`
+### 🧰 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://img.shields.io/badge/Eclipse-IDE-purple?style=for-the-badge">
+</p>
 
 ---
 
 ## 💼 Experience
 
-**Application Development Intern**  
+**🧑‍💻 Application Development Intern**  
 📍 UTL Technologies Ltd (Mar 2024 – Jun 2024)
 
-- Assisted in developing and testing Python-based modules  
+- Developed and tested Python-based modules  
 - Worked on GUI development and debugging  
-- Collaborated with team members to deliver project components  
+- Collaborated in team-based delivery  
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
+
+### 📊 Retail Sales Analytics (Market Basket Analysis)
+✔ Customer purchase pattern analysis  
+✔ Association rule mining  
+✔ Data-driven insights for product bundling  
+✔ SQL + Python analytics workflow  
+
+**Tech:** Python • SQL • Data Analytics
+
+---
 
 ### 📄 PDF Editor Web Application
-- Web-based PDF editor (merge, split, compress, rotate, extract)
-- PDF → Word/Excel/Image/PPT conversion
-- OCR integration using Tesseract
-- AI text summarization & PDF Q&A
-- Text-to-Speech support  
+✔ Merge, split, compress, rotate PDFs  
+✔ PDF → Word/Excel/Image/PPT conversion  
+✔ OCR using Tesseract  
+✔ AI summarization & PDF Q&A  
+✔ Text-to-Speech support  
+
 **Tech:** Python • Django • Tailwind CSS
 
 ---
 
 ### 💰 Smart Expense Tracker
-- OCR-based receipt scanning  
-- Automatic expense categorization  
-- Monthly reports with charts  
-- Budget alerts and filters  
+✔ OCR receipt scanning  
+✔ Automatic categorization  
+✔ Monthly charts & reports  
+✔ Budget alerts  
+
 **Tech:** Python • OCR • Data Visualization
 
 ---
 
 ### 💼 Job Portal Web Application
-- Full-stack job portal for seekers & employers  
-- Employer dashboard & authentication  
-- Session management  
+✔ Employer dashboard  
+✔ Secure authentication  
+✔ Session management  
+
 **Tech:** Java • JSP • JDBC • MySQL • HTML • CSS
 
 ---
@@ -89,13 +133,24 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Venkatesh-2002-max/Venkatesh-2002-max/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 🎯 Interests
 
 🤖 Artificial Intelligence  
+📊 Data Analytics  
 💻 Software Development  
 🎵 Music  
 🎬 Movies  
 
 ---
 
-⭐️ From [Venkatesh P](https://github.com/Venkatesh-2002-max)
+<p align="center">
+⭐️ From <a href="https://github.com/Venkatesh-2002-max">Venkatesh P</a>
+</p>
