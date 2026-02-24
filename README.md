@@ -1,156 +1,72 @@
-<!-- ======================= HEADER ======================= -->
-<h1 align="center">Hi 👋, I'm Venkatesh P</h1>
-<h3 align="center">🚀 MCA Student | Full-Stack Developer | Data Analytics Enthusiast | AI Enthusiast</h3>
+# Hi 👋, I'm Venkatesh P
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/venkatesh-p-502949325/">
-    <img src="https://img.shields.io/badge/LinkedIn-Venkatesh%20P-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:venky.p09102002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
-</p>
+**MCA Student | Full-Stack Developer | Data Analytics Enthusiast**
 
 ---
 
-<!-- ======================= TYPING ANIMATION ======================= -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Java+%7C+Python+%7C+SQL;Data+Analytics+%7C+AI+Enthusiast;Building+Real-World+Projects" />
-</p>
+## 👨‍💻 About Me
+
+- 🎓 MCA student at New Horizon College of Engineering  
+- 💻 Strong in Java, Python, SQL, and Full-Stack Development  
+- 📊 Hands-on experience in Data Analytics & Visualization  
+- 🤖 Interested in AI-powered real-world applications  
+- 🚀 Built multiple academic and practical projects  
 
 ---
 
-## 🙋‍♂️ About Me
+## 🛠 Technical Skills
 
-🎓 MCA student at **New Horizon College of Engineering**  
-💻 Strong in **Java, Python, SQL, Full-Stack Development**  
-📊 Hands-on experience in **Data Analytics & Visualization**  
-🤖 Interested in **AI-powered real-world applications**  
-🚀 Built multiple academic and practical projects  
-
-✨ Passionate about solving real problems using modern software and data-driven approaches.
-
----
-
-## 🛠 Tech Stack
-
-### 👨‍💻 Programming
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
-</p>
-
-### 🌐 Web Technologies
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-<img src="https://img.shields.io/badge/JSP-orange?style=for-the-badge">
-</p>
-
-### ⚙️ Backend & Frameworks
-<p>
-<img src="https://skillicons.dev/icons?i=django" />
-<img src="https://img.shields.io/badge/JDBC-blue?style=for-the-badge">
-</p>
-
-### 📊 Data Analytics
-<p>
-<img src="https://img.shields.io/badge/SQL-Analytics-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/Python-Data%20Analysis-yellow?style=for-the-badge">
-<img src="https://img.shields.io/badge/Data%20Visualization-Charts-green?style=for-the-badge">
-</p>
-
-### 🗄 Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
-
-### 🧰 Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-<img src="https://img.shields.io/badge/Eclipse-IDE-purple?style=for-the-badge">
-</p>
+**Programming:** Java, Python, C, C++  
+**Web:** HTML, CSS, JavaScript, JSP  
+**Backend/Frameworks:** Django, JDBC  
+**Databases:** MySQL, SQLite, SQL  
+**Tools:** Git, GitHub, VS Code, Eclipse, Tesseract OCR  
 
 ---
 
 ## 💼 Experience
 
-**🧑‍💻 Application Development Intern**  
-📍 UTL Technologies Ltd (Mar 2024 – Jun 2024)
+**Application Development Intern — UTL Technologies Ltd**  
+*Mar 2024 – Jun 2024*
 
-- Developed and tested Python-based modules  
+- Assisted in developing and testing Python-based modules  
 - Worked on GUI development and debugging  
-- Collaborated in team-based delivery  
+- Collaborated with team members on project delivery  
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 📊 Retail Sales Analytics (Market Basket Analysis)
-✔ Customer purchase pattern analysis  
-✔ Association rule mining  
-✔ Data-driven insights for product bundling  
-✔ SQL + Python analytics workflow  
-
-**Tech:** Python • SQL • Data Analytics
-
----
+- Analyzed customer purchase patterns  
+- Performed association rule mining  
+- Generated product bundling insights  
+**Tech:** Python, SQL
 
 ### 📄 PDF Editor Web Application
-✔ Merge, split, compress, rotate PDFs  
-✔ PDF → Word/Excel/Image/PPT conversion  
-✔ OCR using Tesseract  
-✔ AI summarization & PDF Q&A  
-✔ Text-to-Speech support  
-
-**Tech:** Python • Django • Tailwind CSS
-
----
+- Merge, split, compress, rotate PDFs  
+- PDF conversion (Word, Excel, Images, PPT)  
+- OCR using Tesseract  
+- AI summarization and PDF Q&A  
+**Tech:** Python, Django, Tailwind CSS  
 
 ### 💰 Smart Expense Tracker
-✔ OCR receipt scanning  
-✔ Automatic categorization  
-✔ Monthly charts & reports  
-✔ Budget alerts  
-
-**Tech:** Python • OCR • Data Visualization
-
----
+- OCR-based receipt scanning  
+- Automatic expense categorization  
+- Monthly reports with charts  
+- Budget alerts  
+**Tech:** Python, Data Visualization  
 
 ### 💼 Job Portal Web Application
-✔ Employer dashboard  
-✔ Secure authentication  
-✔ Session management  
-
-**Tech:** Java • JSP • JDBC • MySQL • HTML • CSS
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Venkatesh-2002-max&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Venkatesh-2002-max&theme=tokyonight" />
-</p>
+- Employer dashboard  
+- Secure authentication  
+- Session management  
+**Tech:** Java, JSP, JDBC, MySQL  
 
 ---
 
-## 🐍 Contribution Snake
+## 📫 Connect With Me
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Venkatesh-2002-max/Venkatesh-2002-max/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🎯 Interests
-
-🤖 Artificial Intelligence  
-📊 Data Analytics  
-💻 Software Development  
-🎵 Music  
-🎬 Movies  
-
----
-
-<p align="center">
-⭐️ From <a href="https://github.com/Venkatesh-2002-max">Venkatesh P</a>
-</p>
+- 🔗 LinkedIn: https://www.linkedin.com/in/venkatesh-p-502949325/  
+- 📧 Email: venky.p09102002@gmail.com  
+- 💻 GitHub: https://github.com/Venkatesh-2002-max
