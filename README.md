@@ -1,107 +1,81 @@
-<!-- ======================= HEADER ======================= -->
 <h1 align="center">Hi 👋, I'm Venkatesh P</h1>
-<h3 align="center">🚀 MCA Student | Full-Stack Developer | AI Enthusiast</h3>
+<h3 align="center">MCA Student | Full-Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/venkatesh-p-502949325/">
     <img src="https://img.shields.io/badge/LinkedIn-Venkatesh%20P-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="mailto:venky.p09102002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
-</p>
-
----
-
-<!-- ======================= TYPING ANIMATION ======================= -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Java+%7C+Python+%7C+SQL;AI+Enthusiast;Building+Real-World+Projects" />
 </p>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-🎓 MCA student at **New Horizon College of Engineering**  
-💻 Strong in **Java, Python, SQL, Full-Stack Development**  
-🤖 Interested in **AI-powered real-world applications**  
+🎓 MCA student at New Horizon College of Engineering  
+💻 Strong in Java, Python, SQL, and full-stack web development  
+🤖 Interested in AI-powered real-world applications  
 🚀 Built multiple academic and practical projects  
 
-✨ Passionate about solving real problems using modern software practices.
+✨ I enjoy solving practical problems using modern software development practices and AI features.
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 👨‍💻 Programming
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
-</p>
+`Java` `Python` `C` `C++`
 
 ### 🌐 Web Technologies
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-<img src="https://img.shields.io/badge/JSP-orange?style=for-the-badge">
-</p>
+`HTML` `CSS` `JavaScript` `JSP`
 
 ### ⚙️ Backend & Frameworks
-<p>
-<img src="https://skillicons.dev/icons?i=django" />
-<img src="https://img.shields.io/badge/JDBC-blue?style=for-the-badge">
-</p>
+`Django` `JDBC`
 
 ### 🗄 Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
+`MySQL` `SQLite` `SQL`
 
-### 🧰 Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-<img src="https://img.shields.io/badge/Eclipse-IDE-purple?style=for-the-badge">
-</p>
+### 🧰 Tools & Libraries
+`Git` `GitHub` `PyPDF2` `PyMuPDF` `Tesseract OCR`  
+`VS Code` `Eclipse`
 
 ---
 
 ## 💼 Experience
 
-**🧑‍💻 Application Development Intern**  
+**Application Development Intern**  
 📍 UTL Technologies Ltd (Mar 2024 – Jun 2024)
 
-- Developed and tested Python-based modules  
+- Assisted in developing and testing Python-based modules  
 - Worked on GUI development and debugging  
-- Collaborated in team-based delivery  
+- Collaborated with team members to deliver project components  
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 📄 PDF Editor Web Application
-✔ Merge, split, compress, rotate PDFs  
-✔ PDF → Word/Excel/Image/PPT conversion  
-✔ OCR using Tesseract  
-✔ AI summarization & PDF Q&A  
-✔ Text-to-Speech support  
-
+- Web-based PDF editor (merge, split, compress, rotate, extract)
+- PDF → Word/Excel/Image/PPT conversion
+- OCR integration using Tesseract
+- AI text summarization & PDF Q&A
+- Text-to-Speech support  
 **Tech:** Python • Django • Tailwind CSS
 
 ---
 
 ### 💰 Smart Expense Tracker
-✔ OCR receipt scanning  
-✔ Automatic categorization  
-✔ Monthly charts & reports  
-✔ Budget alerts  
-
-**Tech:** Python • Data Visualization
+- OCR-based receipt scanning  
+- Automatic expense categorization  
+- Monthly reports with charts  
+- Budget alerts and filters  
+**Tech:** Python • OCR • Data Visualization
 
 ---
 
 ### 💼 Job Portal Web Application
-✔ Employer dashboard  
-✔ Secure authentication  
-✔ Session management  
-
+- Full-stack job portal for seekers & employers  
+- Employer dashboard & authentication  
+- Session management  
 **Tech:** Java • JSP • JDBC • MySQL • HTML • CSS
 
 ---
@@ -115,14 +89,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Venkatesh-2002-max/Venkatesh-2002-max/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🎯 Interests
 
 🤖 Artificial Intelligence  
@@ -132,6 +98,4 @@
 
 ---
 
-<p align="center">
-⭐️ From <a href="https://github.com/Venkatesh-2002-max">Venkatesh P</a>
-</p>
+⭐️ From [Venkatesh P](https://github.com/Venkatesh-2002-max)
