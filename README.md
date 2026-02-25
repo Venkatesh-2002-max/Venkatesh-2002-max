@@ -84,7 +84,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Venkatesh-2002-max&show_icons=true&theme=default&cache_seconds=1800" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Venkatesh-2002-max&show_icons=true&theme=default" />
 </p>
 
 ---
