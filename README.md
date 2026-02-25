@@ -1,6 +1,6 @@
 <!-- ======================= HEADER ======================= -->
 <h1 align="center">Hi 👋, I'm Venkatesh P</h1>
-<h3 align="center">MCA Student | Full-Stack Developer | Data Analytics Enthusiast | AI Enthusiast</h3>
+<h3 align="center">MCA Student | Full-Stack Developer | Data Analytics Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/venkatesh-p-502949325/">
